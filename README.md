@@ -14,3 +14,5 @@ After setting up the repository, make a folder named ``` sounds ``` to store aud
 run the ```Q-audio-mixer.ipynb``` file using the jupyter notebook.
 
 under the ```create_control_circuit()``` method, the space for creating a circuit has been clearly designated. The circuit is run on a statevector simulator and the output is stored as ```output.wav```
+
+working only in linux at the moment (sadly)
